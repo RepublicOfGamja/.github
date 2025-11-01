@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/icon.png" alt="RepublicOfGamja Icon" width="80" height="80" style="margin-bottom: 10px;" />
+  <img src="https://raw.githubusercontent.com/RepublicOfGamja/.github/master/assets/icon.png" alt="RepublicOfGamja Icon" width="80" height="80" style="margin-bottom: 10px;" />
 
 <h2>RepublicOfGamja</h2>
 
